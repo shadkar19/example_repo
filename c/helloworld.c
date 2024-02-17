@@ -6,4 +6,9 @@ int main() {
   return 1;
 }
 
+<<<<<<< Updated upstream
 #error
+=======
+
+#hello ended
+>>>>>>> Stashed changes
